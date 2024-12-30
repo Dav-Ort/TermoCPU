@@ -2,6 +2,7 @@
 Simulador de termodinámica aplicada al enfriamiento de una CPU
 # 
 ![Logo del Instituto Politécnico Nacional](https://raw.githubusercontent.com/Dav-Ort/TermoCPU/master/recursos/LogoIPN.png)
+
 _La técnica al servicio de la patria_
 
 Este proyecto fué realizado por el equipo de Física I para el Proyecto AULA para la materia Herramientas de Programación.
